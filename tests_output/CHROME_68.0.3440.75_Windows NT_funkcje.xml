@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="funkcje"
+    errors="0" failures="0" hostname="" id="" package="funkcje" skipped="0"
+    tests="1" time="16.25" timestamp="Tue, 31 Jul 2018 11:12:26 GMT">
+  
+    <testcase name="Konto Direct" classname="funkcje" time="16.25" assertions="7">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="1"
+            failures="0"
+            tests="1">
+
+  <testsuite name="test2"
+    errors="1" failures="0" hostname="" id="" package="test2" skipped="0"
+    tests="1" time="0.006000" timestamp="Mon, 30 Jul 2018 11:29:12 GMT">
+  
+    <testcase name="Test ING" classname="test2" time="0.006000" assertions="0">
+    </testcase>
+  
+
+  
+    <system-err>
+        Error while running [Test2 / Test ING]:
+
+  C:\Users\UP68ER\Projects\testy\test\test2Selectors.js:11
+    cokiesING: &#39;div &gt; span.js-cookie-policy-main-accept-button.cookie-policy-button.is--primary&#39;s
+                                                                                                ^
+
+SyntaxError: Unexpected identifier
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:616:28)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.Test ING (C:\Users\UP68ER\Projects\testy\test\test2.js:4:21)
+    </system-err>
+  
+
+  
+  </testsuite>
+</testsuites>
